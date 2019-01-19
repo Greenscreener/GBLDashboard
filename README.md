@@ -1,2 +1,2 @@
 # GBLDashboard
-Mluvíme o tom už dlouho. Tak proč nezačíť?
+Mluvíme o tom už dlouho. Tak proč nezačít?
